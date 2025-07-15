@@ -94,6 +94,8 @@ Basic UI for health, ammo, and game state.
 
 Score tracking and simple game loops (e.g., wave-based survival).
 
+Enter Your Name in your fork:
+
 Developer: [Your Name/Handle]
 Contact: [Your Email/LinkedIn Profile URL]
 Date: [Current Date, e.g., July 15, 2025]
